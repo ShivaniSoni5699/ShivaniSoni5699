@@ -1,16 +1,76 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ShivaniSoni5699/ShivaniSoni5699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Shivani Soni
 
-Here are some ideas to get you started:
+### Embedded Systems · ECU Validation · Test Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Developing embedded applications, investigating system behaviour,
+and building tools that make testing clearer and more repeatable.
+
+[Explore Projects](#featured-projects) · [LinkedIn](https://www.linkedin.com/in/shivanisoni5699/)
+
+</div>
+
+---
+
+## About me
+
+My experience spans automotive ECU validation at ZF and requirements
+engineering at Sensirion. I have worked with CAN/LIN communication,
+Vector CANoe, hardware diagnostics, and requirements traceability.
+
+This portfolio brings together my work in embedded development,
+Python test automation, and interactive simulation.
+
+## Featured projects
+
+### STM32 Sensor Monitoring with FreeRTOS
+An embedded application using queues and semaphores for sensor
+monitoring and LED alerts.
+
+**Focus:** STM32 · FreeRTOS · Task coordination · Embedded development
+
+[View project →](https://github.com/ShivaniSoni5699/freertos-sensor-alert-stm32)
+
+### CAN Log Parser & Validation Reports
+A Python tool for parsing CANoe `.asc` logs, decoding CAN signals,
+and generating automated pass/fail validation reports.
+
+**Focus:** Python · CAN · Log analysis · Test automation
+
+[View project →](https://github.com/ShivaniSoni5699/canoe-parser)
+
+### VR Driving Simulator with Haptic Feedback
+A project exploring haptic feedback in a virtual driving environment.
+
+**Focus:** C# · Virtual reality · Haptic interaction
+
+[View project →](https://github.com/ShivaniSoni5699/MA_VRDriving_HapticFeedback)
+
+---
+
+## Technical toolkit
+
+| Area | Technologies |
+| :--- | :--- |
+| Programming | C · C++ · Python · C# |
+| Embedded systems | STM32 · ARM Cortex-M · FreeRTOS · Keil |
+| Communication | CAN · LIN · SPI · I²C · UART |
+| Validation | Vector CANoe · Oscilloscope · Multimeter |
+| Requirements | Jama · ReqIF · Requirements traceability |
+| Development tools | Git · Jira · Confluence |
+
+## Engineering interests
+
+- Embedded software and real-time systems
+- Automotive communication and ECU validation
+- Automated testing and diagnostic tools
+- Hardware debugging and system behaviour
+
+---
+
+<div align="center">
+
+**Explore the repositories below for code and project documentation.**
+
+</div>
