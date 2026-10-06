@@ -3,14 +3,6 @@
 # Shivani Soni
 
 ### Embedded Systems · ECU Validation · Test Automation
-<p align="center">
-  <img src="https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge" alt="Embedded C" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
-  <img src="https://img.shields.io/badge/FreeRTOS-00875A?style=for-the-badge" alt="FreeRTOS" />
-  <img src="https://img.shields.io/badge/CAN%20%2F%20LIN-6547A5?style=for-the-badge" alt="CAN and LIN" />
-  <img src="https://img.shields.io/badge/Test_Automation-D97706?style=for-the-badge" alt="Test Automation" />
-</p>
 
 Developing embedded applications, investigating system behaviour,
 and building tools that make testing clearer and more repeatable.
