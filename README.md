@@ -53,12 +53,14 @@ A project exploring haptic feedback in a virtual driving environment.
 
 | Area | Technologies |
 | :--- | :--- |
-| Programming | C · C++ · Python · C# |
-| Embedded systems | STM32 · ARM Cortex-M · FreeRTOS · Keil |
-| Communication | CAN · LIN · SPI · I²C · UART |
-| Validation | Vector CANoe · Oscilloscope · Multimeter |
-| Requirements | Jama · ReqIF · Requirements traceability |
-| Development tools | Git · Jira · Confluence |
+| Programming | C · Embedded C · C++ · Python · C# |
+| Microcontrollers & RTOS | STM32 · ARM Cortex-M · FreeRTOS · Keil |
+| Communication protocols | CAN · LIN · SPI · I²C · UART |
+| Testing & diagnostics | Vector CANoe · ECU flashing · Regression testing · Oscilloscope |
+| Requirements engineering | Jama · ReqIF · Requirements traceability |
+| Engineering standards | ASPICE · ISO 26262 |
+| Electronics & simulation | KiCad · LTspice · Proteus · MATLAB |
+| Development & collaboration | Git · Jira · Confluence |
 
 ## Engineering interests
 
